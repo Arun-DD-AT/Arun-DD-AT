@@ -1,7 +1,7 @@
 ## Hi there, Hello! I'm Abhinav TIwari ✨
 
 🧠 Computer Science student at LNCT<br/>
-🌊 Web Development student at Webflow<br/>
+🌊 Web Development student at Webflow University<br/>
 🤴🏼 Club Leader of Gita Values<br/>
 🛜 Code Websites to stay consistent<br/>
 💎 I Make videos about coding projects on [Instagram](https://www.instagram.com/abhinav_tiwari.at/)<br/>
